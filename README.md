@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">City-13 | 11.8K+ visits, Half-Life 2-inspired game - the development of this game has been stopped:<br><br>https://www.roblox.com/games/14097198055/CITY-13-RP<br>- Worked on most of the scripts in the game<br><br>MailBox Misery | 200 visits, one of the older Horror games. Some systems could have been scripted better, but for a casual player, that is unnoticeable:<br><br>https://www.roblox.com/games/16752950836/Mailbox-Misery<br>- Worked on most of the scripts in the game<br>- The game is created under an account I no longer use, but still have access to.č</p>
+<p align="left">City-13 | 11.8K+ visits, Half-Life 2-inspired game - the development of this game has been stopped:<br><br>https://www.roblox.com/games/14097198055/CITY-13-RP<br>- Worked on most of the scripts in the game<br><br>MailBox Misery | 200 visits, one of the older Horror games. Some systems could have been scripted better, but for a casual player, that is unnoticeable:<br><br>https://www.roblox.com/games/16752950836/Mailbox-Misery<br>- Worked on most of the scripts in the game<br>- The game is created under an account I no longer use, but still have access to it.</p>
 
 ###
 
