@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I have three years of experience on the Roblox platform.<br><br>I understand and can work with most of Roblox's systems or services, such as DataStore, TweenService, Raycasting, and many others.<br><br>When creating my systems, I always try to ensure user-friendly interaction with them.<br><br>Additional skills include community management and empathy.</p>
+<p align="left">I have three years of experience on the Roblox platform developing.<br><br>I understand and can work with most of Roblox's systems or services, such as DataStore, TweenService, Raycasting, and many others.<br><br>When creating my systems, I always try to ensure user-friendly interaction with them.<br><br>Additional skills include community management and empathy.</p>
 
 ###
 
