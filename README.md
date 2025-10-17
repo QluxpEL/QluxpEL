@@ -34,3 +34,5 @@
 
 <p align="left">Roblox profile: https://www.roblox.com/users/1799728110/profile </p>
 <p align="left">Discord username: qluxpel </p>
+
+<p align="left">Check out https://github.com/QluxpEL/Code_snippets for my code snippets and a test place </p>
