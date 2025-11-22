@@ -3,7 +3,7 @@
 <p align="left">
 I'm a 16-year-old Roblox developer from Slovakia who is passionate about creating games that feel alive.  
 I specialize in interactive systems, smooth gameplay mechanics, and performance-friendly scripts that make the experience seamless for players.  
-I enjoy building things that feel clean, intuitive, and user-friendly..
+I enjoy building things that feel clean, intuitive, and user-friendly.
 </p>
 
 ---
