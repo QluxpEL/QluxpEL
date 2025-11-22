@@ -94,12 +94,30 @@ Mailbox Misery is a horror game where players take on the role of a mail deliver
 
 ### 🔸 **SCP: Containment Failure**
 
-**N/A visits — Advanced horror game**  
+**0 visits — Advanced horror game**  
 **Role:** Main scripting developer  
 <br>
 
 <p align="left">
 SCP: Containment Failure was planned to be a SCP: Containment Breach remake on Roblox, featuring procedural map generation and interactive SCPs (most of which are NPCs). The game has been postponed multiple times, but several advanced scripts and systems have already been developed in preparation for its release.
+</p>
+
+<p align="left">
+  <a href="https://github.com/QluxpEL/city_13">
+    <img src="https://img.shields.io/badge/GitHub-Read_More-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+### 🔸 **SCP: RolePlay game**
+
+**0 visits — a RolePlaying game**  
+**Role:** Main scripting developer  
+<br>
+
+<p align="left">
+This game has not been yet published. Its under easy develpment and being worked on as a side project. Its an SCP RolEplay game, where you can take role as CLass-D, Chaos Insurgency, Guards, scientists or other Aministrative roles. It is located in a underground facility where players can test Class-D on the range of SCPs.
 </p>
 
 <p align="left">
