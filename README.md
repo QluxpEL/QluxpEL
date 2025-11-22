@@ -37,6 +37,8 @@ I primarily work with Roblox LuaU, the scripting language of Roblox, which allow
 
 • Roblox LuaU – scripting game mechanics, systems, and AI behavior  
 • Roblox Studio – building, testing, and polishing gameplay experiences  
+• Roblox TopBar+ – a community resource for dispalying topbar icons  
+• Roblox Cmdr – a community resource allowing to create administrative commands  
 
 ---
 
