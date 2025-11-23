@@ -45,7 +45,9 @@ I primarily work with Roblox LuaU, the scripting language of Roblox, which allow
 <h2 align="left">🎮 My Projects</h2>
 
 <p align="left">
-Each project teaches me something new about scripting, optimization, and design. Pressing the *Read More* button in my showcase will take you to detailed pages for each project with additional information.
+Each project teaches me something new about scripting, optimization, and design. Pressing the *Read More* button in my showcase will take you to detailed pages for each project with additional information and work showcase.
+
+*SCP: Containment Failure* and *SCP: RolePlay game* are the latest addition featuring the most advance systems.
 </p>
 
 ---
@@ -103,7 +105,7 @@ SCP: Containment Failure was planned to be a SCP: Containment Breach remake on R
 </p>
 
 <p align="left">
-  <a href="https://github.com/QluxpEL/city_13">
+  <a href="https://github.com/QluxpEL/SCP_Containment_Failure">
     <img src="https://img.shields.io/badge/GitHub-Read_More-181717?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -121,7 +123,7 @@ This game has not been yet published. Its under easy develpment and being worked
 </p>
 
 <p align="left">
-  <a href="https://github.com/QluxpEL/city_13">
+  <a href="https://github.com/QluxpEL/scp_roleplay_game">
     <img src="https://img.shields.io/badge/GitHub-Read_More-181717?style=for-the-badge&logo=github">
   </a>
 </p>
