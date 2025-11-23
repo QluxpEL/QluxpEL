@@ -85,7 +85,7 @@ Mailbox Misery is a horror game where players take on the role of a mail deliver
   <a href="https://www.roblox.com/games/16752950836/Mailbox-Misery">
     <img src="https://img.shields.io/badge/Play_on_Roblox-red?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
-  <a href="https://github.com/QluxpEL/city_13">
+  <a href="https://github.com/QluxpEL/Mailbox_Misery">
     <img src="https://img.shields.io/badge/GitHub-Read_More-181717?style=for-the-badge&logo=github">
   </a>
 </p>
