@@ -47,7 +47,7 @@ I primarily work with Roblox LuaU, the scripting language of Roblox, which allow
 <p align="left">
 Each project teaches me something new about scripting, optimization, and design. Pressing the *Read More* button in my showcase will take you to detailed pages for each project with additional information and work showcase.
 
-*SCP: Containment Failure* and *SCP: RolePlay game* are the latest addition featuring the most advance systems.
+*SCP: Containment Failure* is the latest addition featuring the most advance systems.
 </p>
 
 ---
