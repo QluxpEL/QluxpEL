@@ -82,8 +82,9 @@ City-13 is a highly interactive role-playing game inspired by Half-Life 2. Playe
 <p align="left">
 Escape Waves for Evil Brainrots was a popular genre at the time. The core gameplay loop consists of players picking up NPCs (Brainrots) and bringing them back to their base while trying to avoid tsunamis (or other dangers)</p>
 
+**NOTE:**
 <p align="left">
-**NOTE:** The core game is a purchased template provided by the game’s owners. See below for the specific tasks I worked on.
+The core game is a purchased template provided by the game’s owners. See below for the specific tasks I worked on.
 </p>
 
 <p align="left">
@@ -107,8 +108,9 @@ Escape Waves for Evil Brainrots was a popular genre at the time. The core gamepl
 Don't Steal the FNAF was a popular genre at the time. The core gameplay loop involves a player entering a "danger zone" containing NPCs and guard NPCs. The player picks up an NPC, which alerts nearby guards who attempt to chase them down. The player's task is to avoid the guards and escape the danger zone.
 .</p>
 
+**NOTE:**
 <p align="left">
-**NOTE:** The core game is a purchased template provided by the game’s owners. See below for the specific tasks I worked on.
+The core game is a purchased template provided by the game’s owners. See below for the specific tasks I worked on.
 </p>
 
 <p align="left">
