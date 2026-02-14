@@ -126,7 +126,7 @@ The core game is a purchased template provided by the game’s owners. See below
 
 ### 🔸 **Escape The Speedy Wall For BRAINROTS!**
 
-**110.3K+ visits — Brainrot game**  
+**6K+ visits — Brainrot game**  
 **Role:** Main scripting developer  
 <br>
 
