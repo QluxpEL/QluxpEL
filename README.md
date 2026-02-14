@@ -115,7 +115,9 @@ The core game is a purchased template provided by the game’s owners. See below
   <a href="https://www.roblox.com/games/139399105382200/Dont-Steal-the-FNAF">
     <img src="https://img.shields.io/badge/Play_on_Roblox-red?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
-  Code snippets avalaible soon
+  <a href="https://github.com/QluxpEL/steal_a_fnaf/tree/main">
+    <img src="https://img.shields.io/badge/GitHub-Read_More-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
