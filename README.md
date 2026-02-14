@@ -124,6 +124,26 @@ The core game is a purchased template provided by the game’s owners. See below
 
 ---
 
+### 🔸 **Escape The Speedy Wall For BRAINROTS!**
+
+**110.3K+ visits — Brainrot game**  
+**Role:** Main scripting developer  
+<br>
+
+<p align="left">
+Escape The Speedy Wall For BRAINROTS! was a direct inspiration for the popular genere at the time "Escape tsunami for brainrots". The core loop is identical to the Escape Waves for Evil Brainrots, however, the danger is a wall. I have fully scripted this game.</p>
+
+<p align="left">
+  <a href="https://www.roblox.com/games/88871930209923/Escape-The-Speedy-Wall-For-BRAINROTS#!/about">
+    <img src="https://img.shields.io/badge/Play_on_Roblox-red?style=for-the-badge&logo=roblox&logoColor=white">
+  </a>
+  <a href="https://github.com/QluxpEL/city_13">
+    <img src="https://img.shields.io/badge/GitHub-Read_More-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
 ### 🔸 **Mailbox Misery**
 
 **200+ visits — Classic Roblox horror experience**  
