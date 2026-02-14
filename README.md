@@ -91,9 +91,7 @@ The core game is a purchased template provided by the game’s owners. See below
   <a href="https://www.roblox.com/games/121879901656835/Escape-Waves-for-Evil-Brainrots">
     <img src="https://img.shields.io/badge/Play_on_Roblox-red?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
-  <a href="https://github.com/QluxpEL/city_13">
-    <img src="https://img.shields.io/badge/GitHub-Read_More-181717?style=for-the-badge&logo=github">
-  </a>
+ Code snippets avalaible soon
 </p>
 
 ---
@@ -117,9 +115,7 @@ The core game is a purchased template provided by the game’s owners. See below
   <a href="https://www.roblox.com/games/139399105382200/Dont-Steal-the-FNAF">
     <img src="https://img.shields.io/badge/Play_on_Roblox-red?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
-  <a href="https://github.com/QluxpEL/city_13">
-    <img src="https://img.shields.io/badge/GitHub-Read_More-181717?style=for-the-badge&logo=github">
-  </a>
+  Code snippets avalaible soon
 </p>
 
 ---
@@ -137,9 +133,7 @@ Escape The Speedy Wall For BRAINROTS! was a direct inspiration for the popular g
   <a href="https://www.roblox.com/games/88871930209923/Escape-The-Speedy-Wall-For-BRAINROTS#!/about">
     <img src="https://img.shields.io/badge/Play_on_Roblox-red?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
-  <a href="https://github.com/QluxpEL/city_13">
-    <img src="https://img.shields.io/badge/GitHub-Read_More-181717?style=for-the-badge&logo=github">
-  </a>
+  Code snippets avalaible soon
 </p>
 
 ---
