@@ -73,6 +73,55 @@ City-13 is a highly interactive role-playing game inspired by Half-Life 2. Playe
 
 ---
 
+### 🔸 **Escape Waves for Evil Brainrots**
+
+**110.3K+ visits — Brainrot game**  
+**Role:** Main scripting developer  
+<br>
+
+<p align="left">
+Escape Waves for Evil Brainrots was a popular genre at the time. The core gameplay loop consists of players picking up NPCs (Brainrots) and bringing them back to their base while trying to avoid tsunamis (or other dangers)</p>
+
+<p align="left">
+**NOTE:** The core game is a purchased template provided by the game’s owners. See below for the specific tasks I worked on.
+</p>
+
+<p align="left">
+  <a href="https://www.roblox.com/games/121879901656835/Escape-Waves-for-Evil-Brainrots">
+    <img src="https://img.shields.io/badge/Play_on_Roblox-red?style=for-the-badge&logo=roblox&logoColor=white">
+  </a>
+  <a href="https://github.com/QluxpEL/city_13">
+    <img src="https://img.shields.io/badge/GitHub-Read_More-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+### 🔸 **Don't Steal the FNAF**
+
+**748.8K+ visits — Brainrot game**  
+**Role:** Scripting Developer  
+<br>
+
+<p align="left">
+Don't Steal the FNAF was a popular genre at the time. The core gameplay loop involves a player entering a "danger zone" containing NPCs and guard NPCs. The player picks up an NPC, which alerts nearby guards who attempt to chase them down. The player's task is to avoid the guards and escape the danger zone.
+.</p>
+
+<p align="left">
+**NOTE:** The core game is a purchased template provided by the game’s owners. See below for the specific tasks I worked on.
+</p>
+
+<p align="left">
+  <a href="https://www.roblox.com/games/139399105382200/Dont-Steal-the-FNAF">
+    <img src="https://img.shields.io/badge/Play_on_Roblox-red?style=for-the-badge&logo=roblox&logoColor=white">
+  </a>
+  <a href="https://github.com/QluxpEL/city_13">
+    <img src="https://img.shields.io/badge/GitHub-Read_More-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
 ### 🔸 **Mailbox Misery**
 
 **200+ visits — Classic Roblox horror experience**  
