@@ -39,7 +39,10 @@ I primarily work with Roblox LuaU, the scripting language of Roblox, which allow
 • Roblox Studio – building, testing, and polishing gameplay experiences  
 • Roblox TopBar+ – a community resource for dispalying topbar icons  
 • Roblox Cmdr – a community resource allowing to create administrative commands  
-• Profile Service - Community data store system
+
+LEARNING TOOLS:
+
+• Profile Service - Community data store system.  
 • RoJo - A VS Code connection with version control.
 
 ---
